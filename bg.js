@@ -11,7 +11,7 @@ browser.tabs.onUpdated.addListener((tabId, info, tab) => {
     }
     songTab.push(songId);
 
-    var dlLink = site + '/' + songId + '/download';
+    var dlLink = site + '/' + songId + '/download?noVideo=1';
 
     var downloading = browser.downloads.download({
         url : dlLink,
