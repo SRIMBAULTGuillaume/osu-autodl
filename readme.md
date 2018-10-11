@@ -12,5 +12,6 @@ Please edit yourself the bash script to make it match to your folder config.
 
 Build ext with :
 ```shell
+mkdir build
 zip -r -FS build/osu-autodl.zip *
 ```
