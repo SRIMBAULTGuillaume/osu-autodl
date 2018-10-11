@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "osu! Auto-Downloader",
-    "version": "0.0.0.0.1.a",
+    "version": "1.0",
     "description": "Download osu! maps automatically!",
     "author": "Guillaume S-RIMBAULT",
   
