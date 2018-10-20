@@ -10,7 +10,7 @@ This extension was created to work on Mozilla Firefox and Linux.
 A little script automatically transfert downloaded beatmaps into osu's folder. 
 Please edit yourself the bash script to make it match to your folder config.
 
-Build ext with :
+Build the extension with :
 ```shell
 mkdir build
 zip -r -FS build/osu-autodl.zip *
